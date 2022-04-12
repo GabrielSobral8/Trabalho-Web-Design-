@@ -1,0 +1,15 @@
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+img{
+  position: relative;
+  left: 820px;
+  top: 50px;
+}
+li{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
